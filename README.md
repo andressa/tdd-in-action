@@ -43,5 +43,5 @@ python manage.py runserver
 To run functional tests, you just need to execute the following command:
 
 ```bash
-python functional_tests.py
+python manage.py test
 ```
